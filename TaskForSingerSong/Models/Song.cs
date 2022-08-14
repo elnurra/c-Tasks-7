@@ -27,7 +27,7 @@ namespace TaskForSingerSong.Models
             }
             set
             {
-                if (value== "Pop" && value == "Rock" && value == "Jazz" && value== "Techno")
+                if (value== "Pop" || value == "Rock" || value == "Jazz" || value== "Techno")
                 {
                     _genre = value;
                 }
