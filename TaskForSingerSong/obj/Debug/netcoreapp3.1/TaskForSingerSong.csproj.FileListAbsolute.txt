@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-7\TaskForSingerSong\obj\Debug\netcoreapp3.1\TaskForSingerSong.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-7\TaskForSingerSong\obj\Debug\netcoreapp3.1\TaskForSingerSong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-7\TaskForSingerSong\obj\Debug\netcoreapp3.1\TaskForSingerSong.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-7\TaskForSingerSong\obj\Debug\netcoreapp3.1\TaskForSingerSong.AssemblyInfo.cs
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-7\TaskForSingerSong\obj\Debug\netcoreapp3.1\TaskForSingerSong.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-7\TaskForSingerSong\bin\Debug\netcoreapp3.1\TaskForSingerSong.exe
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-7\TaskForSingerSong\bin\Debug\netcoreapp3.1\TaskForSingerSong.deps.json
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-7\TaskForSingerSong\bin\Debug\netcoreapp3.1\TaskForSingerSong.runtimeconfig.json
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-7\TaskForSingerSong\bin\Debug\netcoreapp3.1\TaskForSingerSong.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-7\TaskForSingerSong\bin\Debug\netcoreapp3.1\TaskForSingerSong.dll
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-7\TaskForSingerSong\bin\Debug\netcoreapp3.1\TaskForSingerSong.pdb
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-7\TaskForSingerSong\obj\Debug\netcoreapp3.1\TaskForSingerSong.dll
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-7\TaskForSingerSong\obj\Debug\netcoreapp3.1\TaskForSingerSong.pdb
+C:\Users\User\OneDrive\Документы\Code Academy\Homeworks c# tasks\C# Tasks-7\TaskForSingerSong\obj\Debug\netcoreapp3.1\TaskForSingerSong.genruntimeconfig.cache
